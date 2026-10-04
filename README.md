@@ -1,16 +1,23 @@
-## Hi there 👋
+# Kutto Peter
 
-<!--
-**kutt0/kutt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Creative Designer**
 
-Here are some ideas to get you started:
+3D Rendering • Business Development • Graphic Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About
+Creative Designer bridging spatial visualization, visual identity and commercial strategy. Specialized in translating structural concepts into high-impact 3D renders, brand design systems and business development pipelines.
+
+---
+
+### Core Focus
+- **3D Rendering:** Architectural visualization, commercial spatial fit-outs and realistic lighting design
+- **Graphic Design:** Visual brand identity, motion graphics, vector design and layout systems
+- **Business Development:** Commercial strategy, financial modeling and project proposals
+
+---
+
+### Connect & Portfolio
+- **Portfolio:** https://kuttopeter.github.io
+- **WhatsApp:** +254 738 143 502
